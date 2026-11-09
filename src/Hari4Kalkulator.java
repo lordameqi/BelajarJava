@@ -10,6 +10,7 @@ public class Hari4Kalkulator {
         System.out.print("Operator (+ - * /): ");
         String op = input.next();
 
+
         System.out.print("Angka kedua: ");
         double b = input.nextDouble();
 
